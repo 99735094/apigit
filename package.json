@@ -2,7 +2,7 @@
   "name": "api-git",
   "version": "0.1.0",
   "private": true,
-  "homepage":"github-page./",
+  "homepage":"https://99735094.github.io/apigit//",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
